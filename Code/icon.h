@@ -1,8 +1,3 @@
-/* ____________________________
-   This software is licensed under the MIT License:
-   https://github.com/cifertech/Daeva
-   ________________________________________ */
-
 // 'icon_scanner', 16x16px
 const unsigned char bitmap_icon_scanner [] PROGMEM = {
   0x00, 0x00, 0x00, 0x06, 0x00, 0x06, 0x00, 0x06, 0x00, 0x66, 0x00, 0x66, 0x00, 0x66, 0x00, 0x66, 
